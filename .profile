@@ -25,3 +25,5 @@ fi
 if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
+export GOPATH=/home/oliver/go
+export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
