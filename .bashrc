@@ -101,10 +101,6 @@ source $OSH/oh-my-bash.sh
 # alias bashconfig="mate ~/.bashrc"
 # alias ohmybash="mate ~/.oh-my-bash"
 
-# Alias hub
-
-eval "$(hub alias -s)"
-
 ###-begin-npm-completion-###
 #
 # npm command completion script
